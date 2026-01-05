@@ -1,0 +1,13 @@
+Model,Tagging Scheme,Learning Rate,Precision,Recall,F1
+KB/bert-base-swedish-cased,BIO,1e-05,0.9444,0.9761,0.96
+KB/bert-base-swedish-cased,BIO,2e-05,0.9671,0.9856,0.9763
+KB/bert-base-swedish-cased,BIO,5e-05,0.9764,0.9904,0.9834
+KB/bert-base-swedish-cased,BIOES,1e-05,0.9107,0.9761,0.9423
+KB/bert-base-swedish-cased,BIOES,2e-05,0.9315,0.9761,0.9533
+KB/bert-base-swedish-cased,BIOES,5e-05,0.9626,0.9856,0.974
+google-bert/bert-base-multilingual-cased,BIO,1e-05,0.9444,0.9761,0.96
+google-bert/bert-base-multilingual-cased,BIO,2e-05,0.9309,0.9665,0.9484
+google-bert/bert-base-multilingual-cased,BIO,5e-05,0.9905,0.9952,0.9928
+google-bert/bert-base-multilingual-cased,BIOES,1e-05,0.9103,0.9713,0.9398
+google-bert/bert-base-multilingual-cased,BIOES,2e-05,0.9905,0.9952,0.9928
+google-bert/bert-base-multilingual-cased,BIOES,5e-05,0.9764,0.9904,0.9834
