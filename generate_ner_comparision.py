@@ -1,4 +1,12 @@
+"""
+Small script that generates a comparision of the different learning rates for NER given a
+model and tagging scheme
+"""
+
+
 import pandas as pd
+
+
 
 # Paths
 NER_RESULTS_ROUNDED_PATH = "results/ner_results_with_lr_rounded.csv"

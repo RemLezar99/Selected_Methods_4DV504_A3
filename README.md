@@ -57,6 +57,8 @@ results/ – Final evaluation metrics (CSV files)
 
 outputs/ – Training outputs and checkpoints (ignored by Git)
 
+The scripts inspect_results.py and generate_ner_comparision.py were used to analyze the results after training, and to generate CSV-files for the report.
+
 ## Notes
 
 Model checkpoints and training outputs are not tracked in Git.
